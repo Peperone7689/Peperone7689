@@ -12,7 +12,6 @@
 - 💻 Estudante de Desenvolvimento de Sistemas
 - 🏫 Estudo no SENAI Paulo Antônio Skaf — São Caetano do Sul
 - 🚀 Atualmente aprendendo e explorando novas tecnologias
-- 🎨 Tenho interesse em Front-End e desenvolvimento de interfaces
 - 🛠️ Buscando melhorar minhas habilidades através de projetos e estudos
 - 🏓 No tempo livre, gosto de jogar tênis de mesa
 - 👨‍💻 Pronomes: Ele/Dele
